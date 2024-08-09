@@ -1,2 +1,10 @@
-Hello, Linux!
-This is a practical exam.
+BSCRIPT01.bat
+BSCRIPT02.bat
+BSCRIPT03.bat
+DemoFiles
+gitx.txt
+linux_practice
+nanoLab.txt
+notes.txt
+Hello Linux
+this is a practical exam
